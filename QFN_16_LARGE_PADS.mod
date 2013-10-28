@@ -1,0 +1,141 @@
+PCBNEW-LibModule-V1  Mon 30 Sep 2013 15:24:10 EST
+# encoding utf-8
+Units mm
+$INDEX
+QFN_16
+$EndINDEX
+$MODULE QFN_16
+Po 0 0 0 15 52490AB2 00000000 ~~
+Li QFN_16
+Sc 0
+AR /518C26A3
+Op 0 0 0
+.LocalClearance 0.025
+T0 0 -3 1.5 1.5 0 0.15 N I 21 N "U1"
+T1 -5.72 -1.7 1 1 900 0.15 N I 21 N "MMA8452Q_LARGE_PADS"
+DS -1.5 -1.5 1.5 -1.5 0.15 21
+DS 1.5 -1.5 1.5 1.5 0.15 21
+DS 1.5 1.5 -1.5 1.5 0.15 21
+DS -1.5 1.5 -1.5 -1.5 0.15 21
+$PAD
+Sh "11" R 0.767 0.3 0 0 1800
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.3165 0
+.LocalClearance 0.025
+$EndPAD
+$PAD
+Sh "10" R 0.767 0.3 0 0 1800
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.3165 0.5
+.LocalClearance 0.025
+$EndPAD
+$PAD
+Sh "9" R 0.767 0.3 0 0 1800
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.3165 1
+$EndPAD
+$PAD
+Sh "12" R 0.767 0.3 0 0 1800
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.3165 -0.5
+$EndPAD
+$PAD
+Sh "13" R 0.767 0.3 0 0 1800
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.3165 -1
+$EndPAD
+$PAD
+Sh "5" R 0.767 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.3165 1
+$EndPAD
+$PAD
+Sh "4" R 0.767 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.3165 0.5
+$EndPAD
+$PAD
+Sh "3" R 0.767 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.3165 0
+$EndPAD
+$PAD
+Sh "2" R 0.767 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.3165 -0.5
+$EndPAD
+$PAD
+Sh "1" R 0.767 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.3165 -1
+$EndPAD
+$PAD
+Sh "7" R 0.3 0.767 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.2165
+$EndPAD
+$PAD
+Sh "16" R 0.3 0.767 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.5 -1.2165
+$EndPAD
+$PAD
+Sh "14" R 0.3 0.767 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.5 -1.2165
+$EndPAD
+$PAD
+Sh "15" R 0.3 0.767 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.2165
+$EndPAD
+$PAD
+Sh "8" R 0.3 0.767 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.5 1.2165
+$EndPAD
+$PAD
+Sh "6" R 0.3 0.767 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.5 1.2165
+$EndPAD
+$SHAPE3D
+Na "/home/djpeake/Work_Programming/kicad_libraries/3D/MMA8452.wrl"
+Sc 0.4 0.4 0.4
+Of 0 0 0
+Ro -90 0 0
+$EndSHAPE3D
+$EndMODULE QFN_16
+$EndLIBRARY

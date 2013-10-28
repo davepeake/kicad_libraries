@@ -1,0 +1,92 @@
+PCBNEW-LibModule-V1  Thu 12 Sep 2013 18:26:47 EST
+# encoding utf-8
+Units mm
+$INDEX
+100MM_CA
+$EndINDEX
+$MODULE 100MM_CA
+Po 0 0 0 15 52317A9B 00000000 ~~
+Li 100MM_CA
+Sc 0
+AR 
+Op 0 0 0
+T0 40.5 -5 1 1 0 0.15 N V 21 N "100MM_CA"
+T1 42.5 -3 1 1 0 0.15 N V 21 N "VAL**"
+DC 37 105.5 41 109 0.15 21
+DS 45 113.5 0 113.5 0.15 21
+DS 0 113.5 -45 113.5 0.15 21
+DS -45 113.5 -45 -6.5 0.15 21
+DS -45 -6.5 45 -6.5 0.15 21
+DS 45 -6.5 45 113.5 0.15 21
+$PAD
+Sh "8" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "7" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 0
+$EndPAD
+$PAD
+Sh "6" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 0
+$EndPAD
+$PAD
+Sh "9" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 0
+$EndPAD
+$PAD
+Sh "10" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 0
+$EndPAD
+$PAD
+Sh "3" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 107
+$EndPAD
+$PAD
+Sh "4" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 107
+$EndPAD
+$PAD
+Sh "5" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 107
+$EndPAD
+$PAD
+Sh "2" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 107
+$EndPAD
+$PAD
+Sh "1" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 107
+$EndPAD
+$EndMODULE 100MM_CA
+$EndLIBRARY
